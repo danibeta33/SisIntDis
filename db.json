@@ -1,8 +1,4 @@
 {
-  "users":[
-           {
-             "id":1,
-             "username":"manolo",
-           }
-          ]
+  "users": [],
+  "scores": []
 }
