@@ -1,4 +1,28 @@
 {
-  "users": [],
-  "scores": []
+  "users": [
+    {
+      "id": 1,
+      "name": "Jeison",
+      "gym":"Fantasma",
+      "deck": [260, 937, 861, 849, 724, 448]
+    },
+    {
+      "id": 2,
+      "name": "Ivan",
+      "gym":"Dragon", 
+      "deck": [6, 384, 445, 483, 484, 487]
+    },
+    {
+      "id": 3,
+      "name": "Juan",
+      "gym":"Lucha",
+      "deck": [448, 493, 392, 117, 777, 815]
+    },
+    {
+      "id": 4,
+      "name": "Pedro",
+      "gym":"Psiquico", 
+      "deck": [658, 143, 158, 250, 130, 94]
+    }
+  ]
 }
