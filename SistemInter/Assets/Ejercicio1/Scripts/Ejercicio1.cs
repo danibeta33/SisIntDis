@@ -159,7 +159,7 @@ public class Ejercicio1 : MonoBehaviour
     User user = allUsers[index];
 
     userNameText.text = user.name;
-    gymText.text = user.gym;
+    gymText.text = "Gym tipo: "+user.gym;
 
     StartCoroutine(LoadUserPokemon(user));
     }
